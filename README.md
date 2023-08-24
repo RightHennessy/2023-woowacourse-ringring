@@ -2,7 +2,7 @@
 
 ## LEVEL 1 : Kotlin
 
-<!-- 배운거 추가하면 좋을 것 같음 -->
+<!-- 레벨동안 배운거 추가하면 좋을 것 같음 -->
 
 | 미션명 | 기간 | 키워드 | 1단계 | 2단계 | 페어 | 리뷰어 | 블로그 |
 | :----: | :----:| :----: | :----: | :----: | :----: | :----: | :----: |
@@ -13,7 +13,18 @@
 
 </br>
 
-<!-- ## LEVEL 2 : Android -->
+## LEVEL 2 : Android
+
+<!-- 레벨동안 배운거 추가하면 좋을 것 같음 -->
+
+| 미션명 | 기간 | 키워드 | 1,2단계 | 3,4단계 | 페어 | 리뷰어 | 블로그 |
+| :----: | :----:| :----: | :----: | :----: | :----: | :----: | :----: |
+| 🎫 [영화 티켓 예매](https://github.com/woowacourse/android-movie-ticket) | 04.11-04.24 | 4대 컴포넌트 </br> LifeCycle </br> View 컴포넌트 </br> Activity간 데이터 전달 </br> 화면 구성 변경 </br> 직렬화 </br> ListView, RecyclerView </br> UI 테스트, Espresso </br> 모듈 분리 | [PR](https://github.com/woowacourse/android-movie-ticket/pull/18) | [PR](https://github.com/woowacourse/android-movie-ticket/pull/48) | [멧돼지](https://github.com/DYGames) | [제리](https://github.com/vagabond95) | [피드백](https://velog.io/@righthennessy/movie-ticket-feedback) |
+| 🎞️ [영화 극장 선택](https://github.com/woowacourse/android-movie-theater) | 04.25-05.08 | Fragment </br> Broadcast Receiver </br> Push Alarm </br> SharedPreference </br> MVP </br> DataBinding </br> Context | [PR](https://github.com/woowacourse/android-movie-theater/pull/19) | [PR](https://github.com/woowacourse/android-movie-theater/pull/41) | [스캇](https://github.com/chws0508) | [커트](https://github.com/BeokBeok) | [피드백](https://velog.io/@righthennessy/movie-theater-feedback) |
+| 🛒 [장바구니(로컬)](https://github.com/woowacourse/android-shopping-cart) | 05.09-05.22 | 데이터 로딩 전략 </br> Glide </br> RecyclerView 심화 </br> 중첩 스크롤뷰 </br> Http 클라이언트, OkHttp </br> Intent </br> Observer 패턴 | [PR](https://github.com/woowacourse/android-shopping-cart/pull/17) | [PR](https://github.com/woowacourse/android-shopping-cart/pull/47) | [반달](https://github.com/no1msh) | [말리빈](https://github.com/malibinYun) | [피드백](https://velog.io/@righthennessy/shopping-cart-feedback) |
+| 🛒 [장바구니(협업)](https://github.com/woowacourse/android-shopping-order) | 05.23-06.05 | 비동기 통신 </br> 스레드 </br> Retrofit </br> Reposiotry </br> Service </br> View Lifecycle | [PR](https://github.com/woowacourse/android-shopping-order/pull/14) | [PR](https://github.com/woowacourse/android-shopping-order/pull/49) | [뽀또](https://github.com/hyunji1203) | [토리](https://github.com/galcyurio) | [피드백](https://velog.io/@righthennessy/shopping-order-feedback) |
+
+</br>
 
 <!-- ## LEVEL 3 : Team 201 -->
 
@@ -40,8 +51,7 @@
 레벨 내에 주어진 주제를 선택하여 10분 내외의 발표를 진행합니다. </br>
 테코톡은 온라인 발표가 아니며, 청중들 앞에서 스크립트 없이 발표하는 방식으로 진행합니다. </br>
 
-[Scope Function](https://www.youtube.com/watch?v=rRjvHKd0ci0&t=265s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC) </br>
-![image](https://github.com/RightHennessy/2023-woowacourse-ringring/assets/88828858/ba6a0556-3f45-42d4-b312-8a07f8014d97)
+[Scope Function](https://www.youtube.com/watch?v=rRjvHKd0ci0&t=265s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC)
 
 ### 릴레이 인터뷰 
 
@@ -50,6 +60,5 @@
 하지만 함께 공부하고 성장하는 친구를 인터뷰 하는건 어떨까요?  </br>
 우테코에서 학습하는 크루들의 생각을 좀 더 깊이있게 알아가기 위해 크루가 크루를 인터뷰하는 인터뷰 챌린지를 시작했습니다.  </br>
 
-[릴레이 인터뷰 0:00-4:30](https://youtu.be/NeO77Al-xUI) </br>
-![image](https://github.com/RightHennessy/2023-woowacourse-ringring/assets/88828858/1a893d01-2e01-4674-bfe5-dfa5811fcdfa)
+[릴레이 인터뷰 0:00-4:30](https://youtu.be/NeO77Al-xUI)
 
