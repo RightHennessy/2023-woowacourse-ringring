@@ -34,6 +34,15 @@
 
 </br>
 
+## LEVEL 4: Team Project + Android Advanced
+
+| 미션명 | 기간 | 키워드 | 1단계 | 2단계 | 3단계 |  리뷰어 |
+| :----: | :----:| :----: | :----: | :----: | :----: | :----: |
+| 🕸️ [만들면서 배우는 DI](https://github.com/woowacourse/android-di) | 08.31-09.25 | 흠냐 | [PR](https://github.com/woowacourse/android-di/pull/15) | [PR](https://github.com/woowacourse/android-di/pull/49) | [PR](https://github.com/woowacourse/android-di/pull/77)  | [크롱](https://github.com/krrong) |
+| 🎨 [뷰 챌린지](https://github.com/woowacourse/android-paint) | 09.26-10.16 | 흠냐 | [PR](https://github.com/woowacourse/android-paint/pull/7) | [PR](https://github.com/woowacourse/android-paint/pull/47) | [PR](https://github.com/woowacourse/android-paint/pull/72)  | [로피](https://github.com/Choisehyeon) |
+
+</br>
+
 ## 독서
 
 우아한테크코스 내부에서 진행하는 [독서 스터디](https://github.com/woowacourse-study/2023-fun-readBook-AN)
@@ -43,8 +52,9 @@
 | :----: | :----: | :----: |
 | [객체지향의 사실과 오해](https://product.kyobobook.co.kr/detail/S000001628109) | 03.13-05.05 | [링크](https://github.com/RightHennessy/2023-fun-readBook-AN/tree/righthennessy/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) |
 | [실무에 바로 적용하는 안드로이드 프로그래밍](https://product.kyobobook.co.kr/detail/S000001942519) | 05.10-07.27 | [링크](https://github.com/RightHennessy/2023-fun-readBook-AN/tree/righthennessy/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
-| [좋은 코드 나쁜 코드](https://product.kyobobook.co.kr/detail/S000061353995) | 07.28- | [링크](https://github.com/RightHennessy/2023-fun-readBook-AN/tree/righthennessy/%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%20%EB%82%98%EC%81%9C%20%EC%BD%94%EB%93%9C) |
-| [운영체제와 정보기술의 원리](https://product.kyobobook.co.kr/detail/S000001772604) | 07.26- | [링크](https://github.com/woowacourse-study/2023-cs-study/tree/righthennessy/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC) |
+| [좋은 코드 나쁜 코드](https://product.kyobobook.co.kr/detail/S000061353995) | 07.28-09.04 | [링크](https://github.com/RightHennessy/2023-fun-readBook-AN/tree/righthennessy/%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%20%EB%82%98%EC%81%9C%20%EC%BD%94%EB%93%9C) |
+| [운영체제와 정보기술의 원리](https://product.kyobobook.co.kr/detail/S000001772604) | 07.26-09.14 | [링크](https://github.com/woowacourse-study/2023-cs-study/tree/righthennessy/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC) |
+| [그림으로 배우는 Http & Network Basic](https://product.kyobobook.co.kr/detail/S000000554505) | 10.11-11.01 | [링크](https://github.com/woowacourse-study/2023-cs-study/tree/righthennessy/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20Http%20%26%20Network%20Basic) |
 
 </br>
 
