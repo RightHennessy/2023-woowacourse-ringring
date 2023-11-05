@@ -38,8 +38,8 @@
 
 | 미션명 | 기간 | 키워드 | 1단계 | 2단계 | 3단계 |  리뷰어 |
 | :----: | :----:| :----: | :----: | :----: | :----: | :----: |
-| 🕸️ [만들면서 배우는 DI](https://github.com/woowacourse/android-di) | 08.31-09.25 | 흠냐 | [PR](https://github.com/woowacourse/android-di/pull/15) | [PR](https://github.com/woowacourse/android-di/pull/49) | [PR](https://github.com/woowacourse/android-di/pull/77)  | [크롱](https://github.com/krrong) |
-| 🎨 [뷰 챌린지](https://github.com/woowacourse/android-paint) | 09.26-10.16 | 흠냐 | [PR](https://github.com/woowacourse/android-paint/pull/7) | [PR](https://github.com/woowacourse/android-paint/pull/47) | [PR](https://github.com/woowacourse/android-paint/pull/72)  | [로피](https://github.com/Choisehyeon) |
+| 🕸️ [만들면서 배우는 DI](https://github.com/woowacourse/android-di) | 08.31-09.25 | 의존성 주입 </br> ViewModel 테스트 </br> Service Locator vs DI </br> Annotaion </br> Qualifier </br> Hilt | [PR](https://github.com/woowacourse/android-di/pull/15) | [PR](https://github.com/woowacourse/android-di/pull/49) | [PR](https://github.com/woowacourse/android-di/pull/77)  | [크롱](https://github.com/krrong) |
+| 🎨 [뷰 챌린지](https://github.com/woowacourse/android-paint) | 09.26-10.16 | View LifeCycle </br> View 계층구조 </br> onTouchEvent  </br> 반응형 UI </br> 뷰 성능 개선 | [PR](https://github.com/woowacourse/android-paint/pull/7) | [PR](https://github.com/woowacourse/android-paint/pull/47) | [PR](https://github.com/woowacourse/android-paint/pull/72)  | [로피](https://github.com/Choisehyeon) |
 
 </br>
 
